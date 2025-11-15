@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumudu Maduranga</h1>
-<h3 align="center">Embedded Systems & IoT Engineer | Power Plant Monitoring & IIoT</h3>
+<h3 align="center">Full-Stack IoT Engineer | Embedded Systems • Cloud IoT • Industrial Communication</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumudu17&label=Profile%20views&color=0e75b6&style=flat" alt="sumudu17" />
