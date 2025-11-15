@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sumudu17&label=Profile%20views&color=0e75b6&style=flat" alt="sumudu17" />
 </p>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=sumudu17&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=sumudu17&theme=onedark&margin-w=10&margin-h=10" alt="sumudu17 trophies" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -27,29 +21,40 @@ I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technol
 
 ## 🔧 Core Expertise
 
-- ⚡ **Power Plant Monitoring & Control**  
-  Solar PV plants, power analyzers, energy meters, gateway devices, data loggers.
+- 🧠 **Embedded Systems Development**  
+  ESP32, ESP8266, STM32, Atmel-based controllers, C/C++, RTOS basics, sensor integration, LTE/4G communication modules, and optimized firmware development.
 
 - ☁️ **IoT & IIoT Platforms**  
-  ThingsBoard-based solutions, MQTT, dashboards, telemetry pipelines, rule chains.
+  ThingsBoard PE/CE, MQTT/MQTTS communication, telemetry pipelines, dashboards, rule chains, device provisioning, and scalable cloud integrations.
 
-- 🧠 **Embedded Systems Development**  
-  ESP32 / microcontrollers, C/C++, RTOS basics, sensors, communication modules (4G/LTE).
+- ⚡ **Power Plant Monitoring & Control**  
+  Solar PV monitoring systems, inverter communication, power analyzers, data loggers, and gateway integrations for large-scale energy sites.
 
 - 🔌 **Industrial Communication**  
-  Modbus RTU/TCP, RS485, Ethernet-based communication, protocol integration with gateways.
+  Modbus RTU/TCP, RS485, Ethernet protocols, multi-device polling, register mapping, troubleshooting, and industrial networking.
+
+- 🔧 **Inverter Communication Expertise**  
+  Hands-on experience integrating: **KACO • Fimer • ABB • SMA • Sungrow • Huawei • Solax**  
+  (Modbus TCP/RTU, alarm parsing, real-time power/energy telemetry, inverter control functions).
+
+- 🌐 **Web Application Development**  
+  Full-stack apps using **Node.js**, **PHP**, **JavaScript**, **MySQL**, REST API development, authentication flows, admin dashboards, firmware portals, and real-time monitoring UIs.
+
+- 🖥️ **Server & Cloud Management**  
+  Linux server administration (Ubuntu VPS), **DigitalOcean droplets**, Nginx, SSL/TLS setup, PM2/Node process management, cron jobs, firewalls, and deployment automation.
 
 - 🧰 **Product Development**  
-  From PCB & firmware to cloud integration and user-facing dashboards.
+  End-to-end development: PCB design, firmware, cloud APIs, dashboards, UX/UI concepts, field deployment, and customer-ready solutions.
 
 - 🔌 **Electrical & Field Work**  
-  Industrial wiring, panel-level integration, deployment & troubleshooting at site.
+  Industrial wiring, panel installation, inverter communication wiring, system integration, commissioning, preventive maintenance, and on-site troubleshooting.
+
+
 
 ---
 
 ## 🛠 Tech Stack (Skill Icons)
 
-> Icons are based on my fork of **skill-icons** (`Sumudu17/skill-icons`).
 
 ### 🔩 Embedded & Hardware
 
@@ -75,9 +80,6 @@ I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technol
   <img src="https://skillicons.dev/icons?i=git,github,docker,grafana,vscode,postman" />
 </p>
 
-> You can adjust the icons list anytime using your repo:  
-> `https://github.com/Sumudu17/skill-icons/tree/main/icons`
-
 ---
 
 ## 📊 GitHub Stats
@@ -102,7 +104,37 @@ I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technol
 ## 🤝 Connect With Me
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sumudu-maduranga" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumudu-maduranga" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sumudu Maduranga" height="30" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Sumudu17" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Sumudu17" height="30" width="40" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/your-facebook-username" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/your-instagram-username" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+
+  <!-- Twitter / X -->
+  <!-- <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a> -->
+
+   <!-- WhatsApp -->
+  <a href="https://wa.me/9471XXXXXXX" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
+
+
+
+
