@@ -1,20 +1,108 @@
 <h1 align="center">Hi 👋, I'm Sumudu Maduranga</h1>
-<h3 align="center">Embedded Systems & IoT Developer</h3>
+<h3 align="center">Embedded Systems & IoT Engineer | Power Plant Monitoring & IIoT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumudu17&label=Profile%20views&color=0e75b6&style=flat" alt="sumudu17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumudu17" alt="sumudu17" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumudu-maduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumudu-maduranga" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumudu17&label=Profile%20views&color=0e75b6&style=flat" alt="sumudu17" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=sumudu17&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=sumudu17&theme=onedark&margin-w=10&margin-h=10" alt="sumudu17 trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumudu17&show_icons=true&locale=en&layout=compact" alt="sumudu17" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumudu17&show_icons=true&locale=en" alt="sumudu17" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumudu17&" alt="sumudu17" /></p>
+I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technology** from the University of Sri Jayewardenepura, passionate about **embedded systems**, **IoT**, and **industrial automation**.
+
+- 💼 Currently working as an **Electronics Engineer at Thingsnode (PVT) LTD**
+- ⚡ Hands-on experience with **solar power plant monitoring & control**, **IIoT**, and **industrial communication**
+- 🚗 Completed an internship at **Vega Innovations**, Sri Lanka’s first electric supercar manufacturer, contributing to advanced automotive and embedded systems
+- 🌐 Collaborated with multiple Sri Lankan companies on **industrial IoT deployments** and **monitoring platforms**
+- 🛠️ Comfortable working across **hardware, firmware, cloud dashboards, and field wiring**
+
+---
+
+## 🔧 Core Expertise
+
+- ⚡ **Power Plant Monitoring & Control**  
+  Solar PV plants, power analyzers, energy meters, gateway devices, data loggers.
+
+- ☁️ **IoT & IIoT Platforms**  
+  ThingsBoard-based solutions, MQTT, dashboards, telemetry pipelines, rule chains.
+
+- 🧠 **Embedded Systems Development**  
+  ESP32 / microcontrollers, C/C++, RTOS basics, sensors, communication modules (4G/LTE).
+
+- 🔌 **Industrial Communication**  
+  Modbus RTU/TCP, RS485, Ethernet-based communication, protocol integration with gateways.
+
+- 🧰 **Product Development**  
+  From PCB & firmware to cloud integration and user-facing dashboards.
+
+- 🔌 **Electrical & Field Work**  
+  Industrial wiring, panel-level integration, deployment & troubleshooting at site.
+
+---
+
+## 🛠 Tech Stack (Skill Icons)
+
+> Icons are based on my fork of **skill-icons** (`Sumudu17/skill-icons`).
+
+### 🔩 Embedded & Hardware
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,linux" />
+</p>
+
+### 🌐 Backend, Web & Scripting
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,php,python,html,css" />
+</p>
+
+### 🗄 Databases & Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,nginx" />
+</p>
+
+### 🧪 Tools, Platforms & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,grafana,vscode,postman" />
+</p>
+
+> You can adjust the icons list anytime using your repo:  
+> `https://github.com/Sumudu17/skill-icons/tree/main/icons`
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumudu17&show_icons=true&locale=en&layout=compact" alt="Top Languages – sumudu17" />
+</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumudu17&show_icons=true&locale=en" alt="GitHub Stats – sumudu17" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumudu17" alt="GitHub Streak – sumudu17" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sumudu-maduranga" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumudu-maduranga" height="30" width="40" />
+  </a>
+</p>
