@@ -11,11 +11,12 @@
 
 I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technology** from the University of Sri Jayewardenepura, passionate about **embedded systems**, **IoT**, and **industrial automation**.
 
-- 💼 Currently working as an **Electronics Engineer at Thingsnode (PVT) LTD**
-- ⚡ Hands-on experience with **solar power plant monitoring & control**, **IIoT**, and **industrial communication**
-- 🚗 Completed an internship at **Vega Innovations**, Sri Lanka’s first electric supercar manufacturer, contributing to advanced automotive and embedded systems
-- 🌐 Collaborated with multiple Sri Lankan companies on **industrial IoT deployments** and **monitoring platforms**
-- 🛠️ Comfortable working across **hardware, firmware, cloud dashboards, and field wiring**
+- 💼 Currently working as an **Electronics Engineer at [Thingsnode (PVT) LTD](https://thingsnode.cc)**
+- 🧪 Previously worked as an **Intern at [Magicbit](https://magicbit.cc)**, contributing to embedded systems and educational IoT platforms
+- 🚗 Completed an internship at **[Vega Innovations](https://www.vega.lk)**, Sri Lanka’s first electric supercar manufacturer, working on automotive and embedded technologies
+- ⚡ Hands-on experience with **solar power plant monitoring**, **IIoT implementations**, and **industrial communication**
+- 🌐 Collaborated with multiple Sri Lankan companies on **industrial IoT deployments**, **device integrations**, and **monitoring platforms**
+- 🛠️ Comfortable working across **hardware**, **firmware**, **cloud dashboards**, and **field wiring & installation**
 
 ---
 
@@ -57,85 +58,85 @@ I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technol
 
 ### 🔩 Embedded & Hardware
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
+  <a href="https://www.arduino.cc/" target="_new" title="Arduino">
     <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
-  <a href="https://gcc.gnu.org/" target="_blank" title="C">
+  <a href="https://gcc.gnu.org/" target="_new" title="C">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
-  <a href="https://isocpp.org/" target="_blank" title="C++">
+  <a href="https://isocpp.org/" target="_new" title="C++">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-  <a href="https://www.raspberrypi.com/" target="_blank" title="Raspberry Pi">
+  <a href="https://www.raspberrypi.com/" target="_new" title="Raspberry Pi">
     <img src="https://skillicons.dev/icons?i=raspberrypi" />
   </a>
 </p>
 
 ### 🌐 Backend, Web & Scripting
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+  <a href="https://nodejs.org/" target="_new" title="Node.js">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_new" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a href="https://jquery.com/" target="_blank" title="jQuery">
+  <a href="https://jquery.com/" target="_new" title="jQuery">
     <img src="https://skillicons.dev/icons?i=jquery" />
   </a>
-  <a href="https://www.php.net/" target="_blank" title="PHP">
+  <a href="https://www.php.net/" target="_new" title="PHP">
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
-  <a href="https://www.python.org/" target="_blank" title="Python">
+  <a href="https://www.python.org/" target="_new" title="Python">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_new" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_new" title="CSS3">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+  <a href="https://getbootstrap.com/" target="_new" title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
 </p>
 
 ### 🗄 Databases & Services
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+  <a href="https://www.mysql.com/" target="_new" title="MySQL">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-  <a href="https://nginx.org/" target="_blank" title="Nginx">
+  <a href="https://nginx.org/" target="_new" title="Nginx">
     <img src="https://skillicons.dev/icons?i=nginx" />
   </a>
 </p>
 
 ### 🧪 Tools, Platforms & DevOps
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" title="Git">
+  <a href="https://git-scm.com/" target="_new" title="Git">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="https://github.com/" target="_blank" title="GitHub">
+  <a href="https://github.com/" target="_new" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" title="Docker">
+  <a href="https://www.docker.com/" target="_new" title="Docker">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
-  <a href="https://grafana.com/" target="_blank" title="Grafana">
+  <a href="https://grafana.com/" target="_new" title="Grafana">
     <img src="https://skillicons.dev/icons?i=grafana" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
+  <a href="https://code.visualstudio.com/" target="_new" title="VS Code">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-  <a href="https://www.postman.com/" target="_blank" title="Postman">
+  <a href="https://www.postman.com/" target="_new" title="Postman">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" title="Linux">
+  <a href="https://www.linux.org/" target="_new" title="Linux">
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
-  <a href="https://ubuntu.com/" target="_blank" title="Ubuntu">
+  <a href="https://ubuntu.com/" target="_new" title="Ubuntu">
     <img src="https://skillicons.dev/icons?i=ubuntu" />
   </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
+  <a href="https://www.mathworks.com/products/matlab.html" target="_new" title="MATLAB">
     <img src="https://skillicons.dev/icons?i=matlab" />
   </a>
 </p>
@@ -150,32 +151,32 @@ If you’d like to collaborate, need help with an IoT or embedded project, or wa
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sumudu-maduranga" target="_blank" title="LinkedIn">
+  <a href="https://linkedin.com/in/sumudu-maduranga" target="_new" title="LinkedIn">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sumudu Maduranga" height="30" width="40" />
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Sumudu17" target="_blank" title="GitHub">
+  <a href="https://github.com/Sumudu17" target="_new" title="GitHub">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Sumudu17" height="30" width="40" />
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sumudu.maduranga.54" target="_blank" title="Facebook">
+  <a href="https://www.facebook.com/sumudu.maduranga.54" target="_new" title="Facebook">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/sm_madu" target="_blank" title="Instagram">
+  <a href="https://instagram.com/sm_madu" target="_new" title="Instagram">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 
   <!-- Twitter / X -->
-  <!-- <a href="https://twitter.com/your-twitter-username" target="_blank">
+  <!-- <a href="https://twitter.com/your-twitter-username" target="_new">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a> -->
 
    <!-- WhatsApp -->
-  <a href="https://wa.me/94754828810" target="_blank" title="WhatsApp">
+  <a href="https://wa.me/94754828810" target="_new" title="WhatsApp">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
