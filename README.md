@@ -53,7 +53,7 @@ I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technol
 
 ---
 
-## 🛠 Tech Stack (Skill Icons)
+## 🛠 Tech Stack
 
 ### 🔩 Embedded & Hardware
 <p align="left">
@@ -142,6 +142,8 @@ I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technol
 
 ---
 
+## 💬 Let's Collaborate
+If you’d like to collaborate, need help with an IoT or embedded project, or want technical guidance - feel free to reach out. I’d be happy to help.
 
 
 ## 🤝 Connect With Me
