@@ -55,32 +55,93 @@ I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technol
 
 ## 🛠 Tech Stack (Skill Icons)
 
-
 ### 🔩 Embedded & Hardware
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,linux" />
+  <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+  <a href="https://gcc.gnu.org/" target="_blank" title="C">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank" title="Raspberry Pi">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  </a>
 </p>
 
 ### 🌐 Backend, Web & Scripting
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,php,python,html,css" />
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://jquery.com/" target="_blank" title="jQuery">
+    <img src="https://skillicons.dev/icons?i=jquery" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" title="PHP">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
 </p>
 
 ### 🗄 Databases & Services
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,nginx" />
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://nginx.org/" target="_blank" title="Nginx">
+    <img src="https://skillicons.dev/icons?i=nginx" />
+  </a>
 </p>
 
 ### 🧪 Tools, Platforms & DevOps
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,grafana,vscode,postman" />
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://grafana.com/" target="_blank" title="Grafana">
+    <img src="https://skillicons.dev/icons?i=grafana" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" title="Ubuntu">
+    <img src="https://skillicons.dev/icons?i=ubuntu" />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="MATLAB">
+    <img src="https://skillicons.dev/icons?i=matlab" />
+  </a>
 </p>
 
 ---
+
 
 
 ## 🤝 Connect With Me
