@@ -12,7 +12,7 @@
 I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technology** from the University of Sri Jayewardenepura, passionate about **embedded systems**, **IoT**, and **industrial automation**.
 
 - 💼 Currently working as an **Electronics Engineer at [Thingsnode (PVT) LTD](https://thingsnode.cc)**
-- 🧪 Previously worked as an **Intern at [Magicbit](https://magicbit.cc)**, contributing to embedded systems and educational IoT platforms
+- 🧪 Previously worked as an **Intern at [MAGICBIT](https://magicbit.cc)**, contributing to embedded systems and educational IoT platforms
 - 🚗 Completed an internship at **[Vega Innovations](https://www.vega.lk)**, Sri Lanka’s first electric supercar manufacturer, working on automotive and embedded technologies
 - ⚡ Hands-on experience with **solar power plant monitoring**, **IIoT implementations**, and **industrial communication**
 - 🌐 Collaborated with multiple Sri Lankan companies on **industrial IoT deployments**, **device integrations**, and **monitoring platforms**
