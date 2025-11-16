@@ -82,24 +82,6 @@ I’m an **Electronics Engineer** with a **B.Tech (Hons) in Mechatronics Technol
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumudu17&show_icons=true&locale=en&layout=compact" alt="Top Languages – sumudu17" />
-</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumudu17&show_icons=true&locale=en" alt="GitHub Stats – sumudu17" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumudu17" alt="GitHub Streak – sumudu17" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
