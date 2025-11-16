@@ -150,22 +150,22 @@ If you’d like to collaborate, need help with an IoT or embedded project, or wa
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sumudu-maduranga" target="_blank">
+  <a href="https://linkedin.com/in/sumudu-maduranga" target="_blank" title="LinkedIn">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sumudu Maduranga" height="30" width="40" />
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Sumudu17" target="_blank">
+  <a href="https://github.com/Sumudu17" target="_blank" title="GitHub">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Sumudu17" height="30" width="40" />
   </a>
 
   <!-- Facebook -->
-  <a href="https://facebook.com/your-facebook-username" target="_blank">
+  <a href="https://www.facebook.com/sumudu.maduranga.54" target="_blank" title="Facebook">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/your-instagram-username" target="_blank">
+  <a href="https://instagram.com/sm_madu" target="_blank" title="Instagram">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 
@@ -175,7 +175,7 @@ If you’d like to collaborate, need help with an IoT or embedded project, or wa
   </a> -->
 
    <!-- WhatsApp -->
-  <a href="https://wa.me/9471XXXXXXX" target="_blank">
+  <a href="https://wa.me/94754828810" target="_blank" title="WhatsApp">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
